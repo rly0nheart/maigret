@@ -3108,7 +3108,7 @@ Rank data fetched from Alexa by domains.
 1. ![](https://www.google.com/s2/favicons?domain=https://ngl.link) [ngl.link (https://ngl.link)](https://ngl.link)*: top 100M, q&a*
 1. ![](https://www.google.com/s2/favicons?domain=https://bitpapa.com) [bitpapa.com (https://bitpapa.com)](https://bitpapa.com)*: top 100M, crypto*
 
-The list was updated at (2024-05-23 19:05:39.515579+00:00 UTC)
+The list was updated at (2024-05-28 02:17:18.410848+00:00 UTC)
 ## Statistics
 
 Enabled/total sites: 2770/3104 = 89.24%
