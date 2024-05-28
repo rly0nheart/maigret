@@ -58,12 +58,12 @@ torrequest = "^0.1.0"
 tqdm = "^4.66.1"
 typing-extensions = "^4.8.0"
 webencodings = "^0.5.1"
-xhtml2pdf = "^0.2.11"
+xhtml2pdf = "0.2.14"
 XMind = "^1.2.0"
 yarl = "^1.8.2"
 networkx = "^2.6.3"
 pyvis = "^0.2.1"
-reportlab = "^4.2.0"
+reportlab = "4.2.0"
 cloudscraper = "^1.2.71"
 
 
@@ -74,7 +74,7 @@ pytest-asyncio = "^0.23.2"
 pytest-cov = "^4.0.0"
 pytest-httpserver = "^1.0.0"
 pytest-rerunfailures = "^12.0"
-reportlab = "^4.2.0"
+reportlab = "4.2.0"
 
 [tool.poetry.scripts]
 maigret = "maigret.maigret:run"
